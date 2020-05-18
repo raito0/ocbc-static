@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#FFF" d="M0 0h48v48H0z"/>
+        <g transform="translate(3 3)">
+            <circle cx="21" cy="21" r="21" fill="#DCE2E5" fill-rule="nonzero" opacity=".2"/>
+            <path fill="#DCE2E5" fill-rule="nonzero" d="M24.8 5.62h-6.7a2.74 2.74 0 0 0-2.74 2.74v6.89A2.73 2.73 0 0 0 18.1 18h6.7a2.74 2.74 0 0 0 2.74-2.74v-6.9a2.74 2.74 0 0 0-2.74-2.74zM15.81 24H9.1a2.73 2.73 0 0 0-2.73 2.74v6.89a2.74 2.74 0 0 0 2.73 2.75h6.71a2.74 2.74 0 0 0 2.73-2.74v-6.89A2.73 2.73 0 0 0 15.81 24z"/>
+            <path fill="#6B8592" fill-rule="nonzero" d="M32.9 24h-6.71a2.73 2.73 0 0 0-2.73 2.74v6.89a2.74 2.74 0 0 0 2.73 2.74h6.71a2.74 2.74 0 0 0 2.73-2.74v-6.88A2.73 2.73 0 0 0 32.9 24z"/>
+            <path stroke="#6B8592" d="M12.46 24.1v-2.77h17.09v3.58M21.45 21.33v-3.34"/>
+            <text fill="#F2F5F6" font-family="FontAwesome5ProSolid, Font Awesome 5 Pro" font-size="6.99" font-weight="700">
+                <tspan x="26.95" y="32.85"></tspan>
+            </text>
+        </g>
+    </g>
+</svg>

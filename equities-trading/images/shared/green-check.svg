@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>Icons/Outlined/Dark/Check</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M18.3280885,6.16799934 C18.3984008,6.09768701 18.4921507,6.06253085 18.6093378,6.06253085 C18.7265248,6.06253085 18.8319933,6.09768701 18.9257433,6.16799934 L19.9101159,7.18752816 C20.0038659,7.2578405 20.0507406,7.35159045 20.0507406,7.46877749 C20.0507406,7.58596453 20.0038659,7.69143303 19.9101159,7.78518299 L9.36326608,18.3320328 C9.29295375,18.4023452 9.19920379,18.4375013 9.08201675,18.4375013 C8.96482971,18.4375013 8.85936121,18.4023452 8.76561125,18.3320328 L4.08984115,13.6211066 C3.9960912,13.5507942 3.94921649,13.4570443 3.94921649,13.3398572 C3.94921649,13.2226702 3.9960912,13.1172017 4.08984115,13.0234517 L5.0742138,12.0390791 C5.16796376,11.9453291 5.27343226,11.8984544 5.3906193,11.8984544 C5.50780634,11.8984544 5.6015563,11.9453291 5.67186863,12.0390791 L9.08201675,15.4492272 L18.3280885,6.16799934 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons/Outlined/Dark/Check" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Check" fill="#6B8592" fill-rule="nonzero" xlink:href="#path-1"></use>
+        <g id="Colours/Icons/Success" mask="url(#mask-2)" fill="#319988">
+            <rect id="Colour" x="0" y="0" width="24" height="24"></rect>
+        </g>
+        <polygon id="Path" mask="url(#mask-2)" points="0 0 24 0 24 24 0 24"></polygon>
+    </g>
+</svg>

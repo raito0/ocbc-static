@@ -1,0 +1,126 @@
+.wrapper--error {
+  padding: 40px 20px 0 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.container--error {
+  margin: 20px 0;
+}
+.You-may-have-logged {
+  font-family: OpenSans;
+  font-size: 24px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.42;
+  letter-spacing: normal;
+  text-align: center;
+  color: #484848;
+}
+.To-proceed {
+  font-family: OpenSans;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: center;
+  color: #5a707b;
+}
+.button.button--primary.button--login-again {
+  width: 100%;
+  height: 100%;
+  padding: 6px 30px;
+  display: block;
+  font-family: OpenSans;
+}
+.button.button--primary:hover::before {
+  opacity: 0;
+  visibility: hidden;
+}
+.button.button--primary.button--darkblue:hover {
+  background-color: #4b5c65;
+}
+.Chevron-left {
+  object-fit: contain;
+}
+.back-to-FPDS {
+  display: flex;
+}
+.back-to-FPDS > .image-back-to-FPDS {
+  margin-right: 5px;
+  transition: 0.3s left ease;
+  position: relative;
+  left: 0px;
+}
+.back-to-FPDS:hover > .image-back-to-FPDS {
+  left: -5px;
+}
+.content-back-to-FPDS {
+  font-family: OpenSans;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  color: #005efd;
+}
+@media screen and (max-width: 991px) {
+  .desktop {
+    display: none;
+  }
+  .To-proceed--desktop {
+    margin-bottom: 0;
+    margin-top: 0;
+  }
+  .pt3 {
+    padding-top: 24px;
+  }
+  .back-to-FPDS--mobile {
+    justify-content: center;
+  }
+  .main-wrapper--mobile {
+    min-height: calc(100vh - 149px) !important;
+  }
+  .main-wrapper-error--mobile {
+    min-height: calc(100vh - 231px)!important;
+  }
+}
+@media screen and (min-width: 992px) {
+  .button.button--primary.button--login-again {
+    max-width: 360px;
+    margin: auto;
+  }
+  .container--error {
+    margin: 40px 0;
+  }
+  .mobile {
+    display: none;
+  }
+  .back-to-FPDS--desktop {
+    margin-top: 50px;
+    margin-bottom: 40px;
+  }
+  .You-may-have-logged {
+    max-width: 600px;
+    font-size: 32px;
+    line-height: 1.25;
+  }
+  .Get-in-touch--desktop {
+    margin-top: 0;
+    margin-bottom: 10px;
+  }
+  .To-proceed--desktop {
+    margin-bottom: 0;
+    margin-top: 0;
+  }
+  .To-proceed {
+    color: #484848;
+    font-size: 18px;
+    line-height: 1.67;
+  }
+}

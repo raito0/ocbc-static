@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" viewBox="0 0 42 42">
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#FFF" fill-opacity="0" d="M0 0h42v42H0z"/>
+        <circle cx="21" cy="21" r="21" fill="#DCE2E5" fill-opacity=".2"/>
+        <g transform="translate(4.375 10.5)">
+            <rect width="33.25" height="21" fill="#DCE2E5" rx="2"/>
+            <g fill="#6B8592" transform="translate(3.5 14)">
+                <rect width="5.25" height="1.75" rx=".875"/>
+                <rect width="5.25" height="1.75" x="7" rx=".875"/>
+                <rect width="5.25" height="1.75" x="14" rx=".875"/>
+                <rect width="5.25" height="1.75" x="21" rx=".875"/>
+            </g>
+            <rect width="7" height="4.375" x="3.5" y="5.25" fill="#F2F5F6" rx="1"/>
+        </g>
+        <g transform="translate(24.5 24.5)">
+            <circle cx="9.625" cy="9.625" r="7.875" fill="#6B8592"/>
+            <path fill="#FFF" fill-rule="nonzero" d="M9.625 19.25a9.625 9.625 0 1 0 0-19.25 9.625 9.625 0 0 0 0 19.25zm0-1.75a7.875 7.875 0 1 1 0-15.75 7.875 7.875 0 0 1 0 15.75z"/>
+            <path fill="#F2F5F6" d="M8.224 12.517L5.37 9.68a.416.416 0 0 1-.12-.308c0-.125.04-.228.12-.308l.632-.615a.381.381 0 0 1 .299-.137c.12 0 .225.046.316.137l1.914 1.914 4.102-4.101a.434.434 0 0 1 .316-.137c.12 0 .22.046.299.137l.632.615c.08.08.12.182.12.308 0 .125-.04.227-.12.307L8.84 12.517a.39.39 0 0 1-.308.136.39.39 0 0 1-.307-.136z"/>
+        </g>
+    </g>
+</svg>

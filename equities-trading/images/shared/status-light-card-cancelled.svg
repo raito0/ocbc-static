@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
+    <title>status-light-card-cancelled</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M41.4142136,32 L38.4142136,35 L48,35 L48,42 C48,43.1045695 47.1045695,44 46,44 L29.4142136,44 L26.4540585,46.9601551 C26.2587963,47.1554173 25.9422138,47.1554173 25.7469517,46.9601551 L25.0398449,46.2530483 C24.8445827,46.0577862 24.8445827,45.7412037 25.0398449,45.5459415 L26.5857864,44 L26,44 C24.8954305,44 24,43.1045695 24,42 L24,35 L35.5857864,35 L38.5857864,32 L24,32 L24,30 C24,28.8954305 24.8954305,28 26,28 L42.5857864,28 L45.5459415,25.0398449 C45.7412037,24.8445827 46.0577862,24.8445827 46.2530483,25.0398449 L46.9601551,25.7469517 C47.1554173,25.9422138 47.1554173,26.2587963 46.9601551,26.4540585 L45.4142136,28 L46,28 C47.1045695,28 48,28.8954305 48,30 L48,32 L41.4142136,32 Z M36,72 C16.117749,72 0,55.882251 0,36 C0,16.117749 16.117749,0 36,0 C55.882251,0 72,16.117749 72,36 C72,55.882251 55.882251,72 36,72 Z M36,69 C54.2253967,69 69,54.2253967 69,36 C69,17.7746033 54.2253967,3 36,3 C17.7746033,3 3,17.7746033 3,36 C3,54.2253967 17.7746033,69 36,69 Z" id="path-1"></path>
+    </defs>
+    <g id="------Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons---Status-(Light)" transform="translate(-232.000000, -219.000000)">
+            <g id="Icon/Status-light/Card-cancelled" transform="translate(232.000000, 219.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Card-cancelled" fill="#FFFFFF" fill-rule="nonzero" xlink:href="#path-1"></use>
+                <g id="Icon/Colour-light" mask="url(#mask-2)" fill="#FFFFFF" fill-rule="evenodd">
+                    <rect id="Colour" x="0" y="0" width="72" height="72"></rect>
+                </g>
+                <polygon id="Path" opacity="0.87" mask="url(#mask-2)" points="0 0 72 0 72 72 0 72"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

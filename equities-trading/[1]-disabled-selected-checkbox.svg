@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>UI controls/Checkbox/Disabled, Selected</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M15.273407,5.13999945 C15.3320007,5.08140584 15.4101256,5.05210904 15.5077815,5.05210904 C15.6054374,5.05210904 15.6933278,5.08140584 15.7714527,5.13999945 L16.5917633,5.9896068 C16.6698882,6.04820041 16.7089505,6.12632538 16.7089505,6.22398124 C16.7089505,6.32163711 16.6698882,6.40952753 16.5917633,6.48765249 L7.80272173,15.276694 C7.74412812,15.3352876 7.66600316,15.3645845 7.56834729,15.3645845 C7.47069142,15.3645845 7.38280101,15.3352876 7.30467604,15.276694 L3.40820096,11.3509221 C3.330076,11.2923285 3.29101374,11.2142036 3.29101374,11.1165477 C3.29101374,11.0188918 3.330076,10.9310014 3.40820096,10.8528765 L4.2285115,10.0325659 C4.30663647,9.95444095 4.39452688,9.91537869 4.49218275,9.91537869 C4.58983862,9.91537869 4.66796358,9.95444095 4.72655719,10.0325659 L7.56834729,12.874356 L15.273407,5.13999945 Z" id="path-1"></path>
+    </defs>
+    <g id="UI-controls/Checkbox/Disabled,-Selected" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Checkbox" fill="#F3F5F6" x="0" y="0" width="24" height="24" rx="5"></rect>
+        <g id="Icons/Outlined/Light/Check" transform="translate(2.000000, 2.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Check" fill="#6B8592" fill-rule="nonzero" xlink:href="#path-1"></use>
+            <g id="Colours/Icons/Light" mask="url(#mask-2)" fill="#FFFFFF" fill-rule="evenodd">
+                <rect id="Colour" x="0" y="0" width="20" height="20"></rect>
+            </g>
+            <polygon id="Path" mask="url(#mask-2)" points="0 0 20 0 20 20 0 20"></polygon>
+        </g>
+    </g>
+</svg>

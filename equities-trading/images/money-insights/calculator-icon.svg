@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="96" viewBox="0 0 56 96">
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#DCE2E5" d="M0 53h56v39a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V53z"/>
+        <rect width="12" height="6" x="6" y="84" fill="#6B8592" rx="2"/>
+        <rect width="12" height="5" x="6" y="75" fill="#F2F5F6" rx="2"/>
+        <rect width="12" height="5" x="6" y="66" fill="#F2F5F6" rx="2"/>
+        <rect width="12" height="5" x="6" y="57" fill="#F2F5F6" rx="2"/>
+        <rect width="12" height="6" x="38" y="84" fill="#6B8592" rx="2"/>
+        <rect width="12" height="5" x="38" y="75" fill="#F2F5F6" rx="2"/>
+        <rect width="12" height="5" x="38" y="66" fill="#F2F5F6" rx="2"/>
+        <rect width="12" height="5" x="38" y="57" fill="#F2F5F6" rx="2"/>
+        <rect width="12" height="6" x="22" y="84" fill="#6B8592" rx="2"/>
+        <rect width="12" height="5" x="22" y="75" fill="#F2F5F6" rx="2"/>
+        <rect width="12" height="5" x="22" y="66" fill="#F2F5F6" rx="2"/>
+        <rect width="12" height="5" x="22" y="57" fill="#F2F5F6" rx="2"/>
+        <path fill="#6B8592" d="M4 0h48a4 4 0 0 1 4 4v49H0V4a4 4 0 0 1 4-4z"/>
+        <rect width="12" height="3" x="6" y="46" fill="#DCE2E5" rx="1.5"/>
+        <rect width="12" height="3" x="38" y="46" fill="#DCE2E5" rx="1.5"/>
+        <rect width="12" height="3" x="22" y="46" fill="#DCE2E5" rx="1.5"/>
+        <rect width="44" height="30" x="6" y="12" fill="#DCE2E5" rx="3"/>
+        <path fill="#6B8592" d="M23.849 33L22 31.15 31.151 22 33 23.848z"/>
+        <path fill="#6B8592" d="M31.151 33L22 23.848 23.849 22 33 31.15z"/>
+        <rect width="44" height="3" x="6" y="5" fill="#F2F5F6" rx="1.5"/>
+    </g>
+</svg>

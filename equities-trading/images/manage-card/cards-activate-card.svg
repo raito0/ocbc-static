@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+    <g fill="none" fill-rule="evenodd">
+        <circle cx="24" cy="24" r="24" fill="#DCE2E5" fill-opacity=".2"/>
+        <g transform="translate(5 12)">
+            <rect width="38" height="24" fill="#DCE2E5" rx="2"/>
+            <g fill="#6B8592" transform="translate(4 16)">
+                <rect width="6" height="2" rx="1"/>
+                <rect width="6" height="2" x="8" rx="1"/>
+                <rect width="6" height="2" x="16" rx="1"/>
+                <rect width="6" height="2" x="24" rx="1"/>
+            </g>
+            <rect width="8" height="5" x="4" y="6" fill="#F2F5F6" rx="1"/>
+        </g>
+        <g transform="translate(28 28)">
+            <circle cx="11" cy="11" r="9" fill="#6B8592"/>
+            <path fill="#FFF" fill-rule="nonzero" d="M11 22c6.075 0 11-4.925 11-11S17.075 0 11 0 0 4.925 0 11s4.925 11 11 11zm0-2a9 9 0 1 1 0-18 9 9 0 0 1 0 18z"/>
+            <path fill="#F2F5F6" d="M9.398 14.305l-3.261-3.243A.476.476 0 0 1 6 10.711c0-.143.046-.26.137-.352l.722-.703a.435.435 0 0 1 .342-.156c.137 0 .257.052.361.156l2.188 2.188 4.687-4.688A.496.496 0 0 1 14.8 7c.137 0 .25.052.342.156l.722.703a.476.476 0 0 1 .137.352c0 .143-.046.26-.137.351l-5.761 5.743a.446.446 0 0 1-.352.156.446.446 0 0 1-.352-.156z"/>
+        </g>
+    </g>
+</svg>

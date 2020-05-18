@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>Icons/Outlined/Dark/Close</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M13.7,12 L19.9,18.2 C19.9666664,18.2666664 20,18.3583336 20,18.475 C20,18.5916664 19.9666664,18.6833336 19.9,18.75 L18.75,19.9 C18.6833336,19.9666664 18.5916664,20 18.475,20 C18.3583336,20 18.2666664,19.9666664 18.2,19.9 L12,13.7 L5.8,19.9 C5.73333359,19.9666664 5.64166641,20 5.525,20 C5.40833359,20 5.31666641,19.9666664 5.25,19.9 L4.1,18.75 C4.03333359,18.6833336 4,18.5916664 4,18.475 C4,18.3583336 4.03333359,18.2666664 4.1,18.2 L10.3,12 L4.1,5.8 C4.03333359,5.73333359 4,5.64166641 4,5.525 C4,5.40833359 4.03333359,5.31666641 4.1,5.25 L5.25,4.1 C5.31666641,4.03333359 5.40833359,4 5.525,4 C5.64166641,4 5.73333359,4.03333359 5.8,4.1 L12,10.3 L18.2,4.1 C18.2666664,4.03333359 18.3583336,4 18.475,4 C18.5916664,4 18.6833336,4.03333359 18.75,4.1 L19.9,5.25 C19.9666664,5.31666641 20,5.40833359 20,5.525 C20,5.64166641 19.9666664,5.73333359 19.9,5.8 L13.7,12 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons/Outlined/Dark/Close" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Mask" fill="#4A5C65" fill-rule="nonzero" xlink:href="#path-1"></use>
+        <g id="Colours/Icons/Error" mask="url(#mask-2)" fill="#E65722">
+            <rect id="Colour" x="0" y="0" width="24" height="24"></rect>
+        </g>
+        <polygon id="Path" mask="url(#mask-2)" points="0 0 24 0 24 24 0 24"></polygon>
+    </g>
+</svg>

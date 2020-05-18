@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#FFF" d="M0 0h48v48H0z"/>
+        <g fill-rule="nonzero" transform="translate(3 3)">
+            <circle cx="21" cy="21" r="21" fill="#DCE2E5" opacity=".2"/>
+            <path fill="#DCE2E5" d="M24.92 5.57h3.36v15.08h-3.36z"/>
+            <path fill="#F2F5F6" d="M21.62 5.57h3.3v15.08h-3.3z"/>
+            <path fill="#DCE2E5" d="M21.62 5.57v15.08h-7.9v17.53H2.94V5.57zM35.75 34.82l3.31 3.36h-6.62l3.29-3.33z"/>
+            <path fill="#6B8592" d="M35.75 34.82l-.02.03-.03-.03V20.65h3.36v17.53z"/>
+            <path fill="#F2F5F6" d="M35.73 34.85l-3.29 3.33h-.04V20.65h3.3v14.17z"/>
+            <path fill="#6B8592" d="M32.4 20.65v17.53H13.72V20.65h14.57zM12 18.26a5.57 5.57 0 0 1-5.58-5.57V8.76h1v3.93a4.57 4.57 0 1 0 9.13 0V8.76h1v3.93A5.58 5.58 0 0 1 12 18.26z"/>
+            <path fill="#F2F5F6" d="M22.78 31.75a5.57 5.57 0 0 1-5.57-5.57v-2.34h1v2.34a4.57 4.57 0 0 0 9.14 0v-2.34h1v2.34a5.58 5.58 0 0 1-5.57 5.57z"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#FFF" d="M0 0h48v48H0z"/>
+        <g transform="translate(3 3)">
+            <circle cx="21" cy="21" r="21" fill="#DCE2E5" fill-rule="nonzero" opacity=".2"/>
+            <path fill="#DCE2E5" fill-rule="nonzero" d="M32.85 39.26H9.13a2.49 2.49 0 0 1-2.59-2.37V5.12a2.49 2.49 0 0 1 2.61-2.38h23.72a2.49 2.49 0 0 1 2.59 2.37v31.77a2.49 2.49 0 0 1-2.61 2.38z"/>
+            <text fill="#6B8592" font-family="OpenSans-ExtraBold, Open Sans" font-size="8.53" font-weight="600" letter-spacing=".3">
+                <tspan x="12.27" y="13.26">TA</tspan> <tspan x="12.27" y="24.26">X</tspan>
+            </text>
+            <path fill="#F2F5F6" fill-rule="nonzero" d="M32 24.08a8.38 8.38 0 1 1 0 16.76 8.38 8.38 0 0 1 0-16.76z"/>
+            <path fill="#6B8592" fill-rule="nonzero" d="M32 25.48a7 7 0 1 1 0 14 7 7 0 0 1 0-14z"/>
+            <path fill="#F2F5F6" fill-rule="nonzero" d="M32.35 32h-1a.87.87 0 1 1 0-1.73h1c.48 0 .87.39.87.87a.35.35 0 1 0 .7 0 1.57 1.57 0 0 0-1.57-1.58h-.16v-.77a.35.35 0 0 0-.35-.35.34.34 0 0 0-.35.35v.77h-.16a1.58 1.58 0 0 0 0 3.15h1a.87.87 0 1 1 0 1.73h-1a.87.87 0 0 1-.87-.87.35.35 0 1 0-.7 0c0 .867.703 1.57 1.57 1.57h.16v.78a.35.35 0 1 0 .7 0v-.78h.16a1.57 1.57 0 1 0 0-3.14z"/>
+            <rect width="17.49" height="1" x="12.27" y="20.64" fill="#F2F5F6" fill-rule="nonzero" rx=".49"/>
+            <rect width="17.49" height="1" x="12.27" y="16.71" fill="#F2F5F6" fill-rule="nonzero" rx=".49"/>
+            <rect width="12.38" height="1" x="12.27" y="24.57" fill="#F2F5F6" fill-rule="nonzero" rx=".49"/>
+            <rect width="9.75" height="1" x="12.27" y="28.5" fill="#F2F5F6" fill-rule="nonzero" rx=".49"/>
+        </g>
+    </g>
+</svg>
